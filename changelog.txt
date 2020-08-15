@@ -1,0 +1,1 @@
+This contains change log in woocommerce-gateway-thawani
